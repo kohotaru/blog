@@ -54,7 +54,7 @@ export const friendsConfig: FriendLink[] = [
 		title: "今朝酒",
 		imgurl:
 			"https://www.kesazake.top/assets/images/%E8%8A%B1%E3%82%88%E3%82%8A%E5%BC%BE%E4%B8%B8.avif",
-		desc: "你好，我是今朝救。",
+		desc: "你好，我是今朝酒。",
 		siteurl: "https://www.kesazake.top/",
 		tags: ["Blog"],
 		weight: 10, // 权重，数字越大排序越靠前
