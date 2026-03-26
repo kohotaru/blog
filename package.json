@@ -47,7 +47,7 @@
     "glob": "^11.1.0",
     "gray-matter": "^4.0.3",
     "hastscript": "^9.0.1",
-    "katex": "^0.16.40",
+    "katex": "^0.16.43",
     "marked": "^16.4.2",
     "mdast-util-find-and-replace": "^3.0.2",
     "mdast-util-to-string": "^4.0.0",
@@ -77,7 +77,7 @@
   },
   "devDependencies": {
     "@astrojs/ts-plugin": "^1.10.7",
-    "@biomejs/biome": "2.4.8",
+    "@biomejs/biome": "2.4.9",
     "@iconify-json/mdi": "^1.2.3",
     "@iconify-json/svg-spinners": "^1.2.4",
     "@iconify/types": "^2.0.0",
