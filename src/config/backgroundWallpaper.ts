@@ -123,13 +123,13 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				// 桌面端要显示的来源文本
 				desktop: "Pixiv - _sunfish_",
 				// 移动端要显示的来源文本
-				mobile: "Pixiv - KiraraShss",
+				mobile: "Pixiv - _sunfish_",
 			},
 			url: {
 				// 桌面端原始艺术品或艺术家页面的 URL 链接
 				desktop: "https://www.pixiv.net/users/83623142",
 				// 移动端原始艺术品或艺术家页面的 URL 链接
-				mobile: "https://www.pixiv.net/users/42715864",
+				mobile: "https://www.pixiv.net/users/83623142",
 			},
 		},
 		// 横幅导航栏配置
