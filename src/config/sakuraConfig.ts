@@ -13,9 +13,9 @@ export const sakuraConfig: SakuraConfig = {
 	// 樱花尺寸
 	size: {
 		// 樱花最小尺寸倍数
-		min: 0.5,
+		min: 0.3,
 		// 樱花最大尺寸倍数
-		max: 1.1,
+		max: 0.9,
 	},
 
 	// 樱花不透明度
@@ -31,16 +31,16 @@ export const sakuraConfig: SakuraConfig = {
 		// 水平移动
 		horizontal: {
 			// 水平移动速度最小值
-			min: -1.7,
+			min: -1.3,
 			// 水平移动速度最大值
-			max: -1.2,
+			max: -0.8,
 		},
 		// 垂直移动
 		vertical: {
 			// 垂直移动速度最小值
-			min: 1.5,
+			min: 1.1,
 			// 垂直移动速度最大值
-			max: 2.2,
+			max: 1.8,
 		},
 		// 旋转速度
 		rotation: 0.03,
