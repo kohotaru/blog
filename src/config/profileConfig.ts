@@ -12,7 +12,7 @@ export const profileConfig: ProfileConfig = {
 	name: "孤蛍",
 
 	// 个人签名
-	bio: "哼哼，谁允许你来的？",
+	bio: "，谁允许你来的？",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
