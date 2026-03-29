@@ -46,6 +46,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			"assets/images/DesktopWallpaper/d5.avif",
 			"assets/images/DesktopWallpaper/d6.avif",*/
 			"assets/images/DesktopWallpaper/my_d2.avif",
+			"assets/images/DesktopWallpaper/my_d3.avif",
 
 
 		],
@@ -117,7 +118,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			},
 			url: {
 				// 桌面端原始艺术品或艺术家页面的 URL 链接
-				desktop: "https://www.pixiv.net/artworks/99609996",
+				desktop: "https://www.pixiv.net/users/83623142",
 				// 移动端原始艺术品或艺术家页面的 URL 链接
 				mobile: "https://www.pixiv.net/users/42715864",
 			},
