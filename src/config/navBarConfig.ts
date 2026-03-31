@@ -42,7 +42,10 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	// 	],
 	// });
 
+
+
 	// 关于及其子菜单
+	/*
 	links.push({
 		name: "关于",
 		url: "/content/",
@@ -55,6 +58,18 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			LinkPreset.About,
 		],
 	});
+	*/
+
+
+	links.push({
+		name: "关于",
+		url: "/about/",
+		icon: "material-symbols:info",
+
+	});
+
+
+
 
 	// 自定义导航栏链接,并且支持多级菜单
 	// links.push({
